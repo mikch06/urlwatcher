@@ -19,5 +19,4 @@ def createImages():
 
 
 manageDirs()
-
-#rintConfiguredUrl()
+printConfiguredUrl()
